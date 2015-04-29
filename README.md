@@ -8,3 +8,7 @@ Just copy and paste opcache.php anywhere in your public folder. You can use some
 Try to keep it safe for non authorized users.
 
 <h4>Screenshots</h4>
+![Dashboard](https://github.com/anmolnagpal/opcache-dashboard/blob/master/Image1.png)
+
+
+![Dashboard](https://github.com/anmolnagpal/opcache-dashboard/blob/master/Image.png)
